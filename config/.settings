@@ -1,0 +1,17 @@
+{
+    "projectName": "Platform Encryption",
+    "username": "rajamohanvakati.move@gmail.com",
+    "id": "93a41b50-12ac-11e7-b605-21f8207bf392",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://ltngdev-dev-ed.my.salesforce.com",
+    "workspace": "C:\\Users\\rvakati\\Documents",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "StaticResource"
+    ]
+}
